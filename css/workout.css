@@ -1,0 +1,85 @@
+#header{
+border: 2px solid red;
+height: 50px;
+display: flex;
+}
+
+.logo {
+  border: 2px solid red;
+  width: 30%;
+}
+.menu {
+  border: 2px solid red;
+  width: 70%;
+}
+.overlay {
+  background-color: rgba(0, 110, 112, 0.6);
+  height: 200px;
+}
+.tablecontent {
+  position: relative;
+  top:28px;
+  left: 100px;
+  color: white;
+  font-weight: 800;
+  font-size: 16px;
+  font-family: "Times New Roman", "georgia", "garamond", "didot", "serif";
+}
+.innerimg {
+  border: 2px solid white;
+  border-radius: 50%;
+}
+.secon {
+  font-size: 16px;
+  font-family: "Times New Roman", "georgia", "garamond", "didot", "serif";
+  text-transform: capitalize;
+  position: relative;
+  top: 15px;
+  left: 50px;
+  color: white;
+}
+.third {
+  font-family: "Times New Roman", "georgia", "garamond", "didot", "serif";
+  color: white;
+  position: relative;
+  top: 8px;
+  left: 5px;
+
+}
+#banner {
+  border: 2px solid red;
+  height: 200px;
+  background-image: url("../pic/pic9.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#body1 {
+border: 2px solid red;
+height: 250px;
+background-color: rgba(0, 0, 0, 0.8);
+}
+.intro {
+  color: white;
+  
+}
+#body2 {
+border: 2px solid red;
+height: 300px;
+}
+#body3 {
+border: 2px solid red;
+height: 400px;
+}
+#body4 {
+border: 2px solid red;
+height: 250px;
+}
+#body5 {
+border: 2px solid red;
+height: 150px;
+}
+#body6 {
+border: 2px solid red;
+height: 50px;
+}
